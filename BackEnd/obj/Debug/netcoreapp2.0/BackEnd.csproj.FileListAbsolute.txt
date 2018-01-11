@@ -1,0 +1,11 @@
+C:\Users\muhammad.kahoot\Documents\Visual Studio 2017\Projects\Zipkin-IstioDemo\BackEnd\bin\Debug\netcoreapp2.0\BackEnd.deps.json
+C:\Users\muhammad.kahoot\Documents\Visual Studio 2017\Projects\Zipkin-IstioDemo\BackEnd\bin\Debug\netcoreapp2.0\BackEnd.runtimeconfig.json
+C:\Users\muhammad.kahoot\Documents\Visual Studio 2017\Projects\Zipkin-IstioDemo\BackEnd\bin\Debug\netcoreapp2.0\BackEnd.runtimeconfig.dev.json
+C:\Users\muhammad.kahoot\Documents\Visual Studio 2017\Projects\Zipkin-IstioDemo\BackEnd\bin\Debug\netcoreapp2.0\BackEnd.dll
+C:\Users\muhammad.kahoot\Documents\Visual Studio 2017\Projects\Zipkin-IstioDemo\BackEnd\bin\Debug\netcoreapp2.0\BackEnd.pdb
+C:\Users\muhammad.kahoot\Documents\Visual Studio 2017\Projects\Zipkin-IstioDemo\BackEnd\obj\Debug\netcoreapp2.0\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.kahoot\Documents\Visual Studio 2017\Projects\Zipkin-IstioDemo\BackEnd\obj\Debug\netcoreapp2.0\BackEnd.AssemblyInfoInputs.cache
+C:\Users\muhammad.kahoot\Documents\Visual Studio 2017\Projects\Zipkin-IstioDemo\BackEnd\obj\Debug\netcoreapp2.0\BackEnd.AssemblyInfo.cs
+C:\Users\muhammad.kahoot\Documents\Visual Studio 2017\Projects\Zipkin-IstioDemo\BackEnd\obj\Debug\netcoreapp2.0\BackEnd.dll
+C:\Users\muhammad.kahoot\Documents\Visual Studio 2017\Projects\Zipkin-IstioDemo\BackEnd\obj\Debug\netcoreapp2.0\BackEnd.pdb
+C:\Users\muhammad.kahoot\Documents\Visual Studio 2017\Projects\Zipkin-IstioDemo\BackEnd\obj\Debug\netcoreapp2.0\BackEnd.csprojResolveAssemblyReference.cache
