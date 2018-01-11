@@ -1,4 +1,4 @@
-# Zipkin-IstioDemo
+# Zipkin-Istio Demo
 This is a basic application which shows how to use Istio and Zipkin and see Distributed Tracing logs. This focuses on Minikube but it can be configured for kubernetes cluster as well.
 
 There are two services FrontEnd and Backend, both in .NetCore, The FrontEnd calls the BackEnd. 
