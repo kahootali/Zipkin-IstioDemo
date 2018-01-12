@@ -23,6 +23,13 @@ namespace FrontEnd.Controllers
         {
             string receiverUrl = "http://backendapp/api/Values/5";
             //string receiverUrl = "http://localhost:61165/api/Values/5";            
+
+            //To See Traces IDs uncomment this and from below the output
+
+            //string output = "\nRequestID: " + Request.Headers["x-request-id"];
+            //output += "\nUserAgent: " + Request.Headers["user-agent"];
+            //output += "\nTraceID: " + Request.Headers["x-b3-traceid"] + "\n";    
+
             using (var httpClient = new HttpClient())
             {
                 var response = await httpClient.GetAsync(receiverUrl);
@@ -33,7 +40,9 @@ namespace FrontEnd.Controllers
                 else
                 {
                     var content = await response.Content.ReadAsStringAsync();
+                    //return "Hello " + content + "\nFrontend:  " + output;
                     return "Hello " + content;
+
                 }
             }
         }

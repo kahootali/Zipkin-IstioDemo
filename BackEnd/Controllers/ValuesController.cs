@@ -20,6 +20,12 @@ namespace BackEnd.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
+            //To See Traces IDs uncomment this
+
+            //string output = "\nRequestID: " + Request.Headers["x-request-id"];
+            //output += "\nUserAgent: " + Request.Headers["user-agent"];
+            //output += "\nTraceID: " + Request.Headers["x-b3-traceid"] + "\n";
+            //return "Muhammad Ali Kahoot" + "\nBackend: " + output + "EndBackend\n";
             return "Muhammad Ali Kahoot";
         }
 
